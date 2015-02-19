@@ -1,3 +1,4 @@
+name 'nginx_ssl_proxy'
 maintainer        "Coroutine, LLC"
 maintainer_email  "bmontgomery@coroutine.com"
 license           "Apache 2.0"
